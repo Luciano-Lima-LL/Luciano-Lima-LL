@@ -49,6 +49,6 @@
 
 ###
 
-<img src="https://github.com/Luciano-Lima-LL/Luciano-Lima-LL/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Luciano-Lima-LL/Luciano-Lima-LL/output/snake.svg" alt="Snake animation" />
 
 ###
