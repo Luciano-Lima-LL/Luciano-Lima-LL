@@ -6,7 +6,7 @@
   <img src="https://streak-stats.demolab.com?user=Luciano-Lima-LL&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Luciano-Lima-LL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luciano-Lima-LL&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Luciano-Lima-LL&" height="150" alt="trophy graph"  />
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Luciano-Lima-LL)](https://github.com/Luciano-Lima-LL/github-profile-trophy)"  />
 </div>
 
 ###
