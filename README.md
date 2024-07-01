@@ -49,12 +49,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Luciano-Lima-LL/Luciano-Lima-LL/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
-<div align="center">
-  <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZkZGZzc2F1MzhiOGluZ3ZlOXJ6cWo0dXNuMmQydmI3MXJhOThteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDNfxtNRtLVv8qs/giphy.webp"  />
-</div>
+
 
 ###
