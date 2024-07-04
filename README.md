@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://clan.akamai.steamstatic.com/images/36256962/8e122dc53ae37daf373ac895f3d7e16c2a7ecaff.gif"  />
+<img align="right" height="180" src="https://clan.akamai.steamstatic.com/images/36256962/8e122dc53ae37daf373ac895f3d7e16c2a7ecaff.gif"  />
 
 ###
 
