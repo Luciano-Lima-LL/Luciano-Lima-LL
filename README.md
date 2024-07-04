@@ -42,9 +42,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Luciano-Lima-LL/Luciano-Lima-LL/output/snake.svg" alt="Snake animation" />
-
-###
